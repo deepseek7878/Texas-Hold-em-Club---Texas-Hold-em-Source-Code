@@ -9,10 +9,10 @@ A high-performance poker engine designed for real-time gameplay and simulation.
 
 
 
-**开发数年 · 支持线下验证 ·ALLIN德州扑克源码**
+**真实运营数年 · 支持线下验证 ·ALLIN德州扑克源码**
 
 
-**简体中文 · 繁體中文 · English· 韩文· 马来文· 日文**
+**简体中文 · 繁體中文 · English· 韩文· 马来文· 日文· 泰文· 印尼语·越南文**
 
 Lobby → Rooms → Real-time multiplayer → Chat → Tournaments → Chips system / 大厅→房间→实时对战→聊天→锦标赛→筹码系统 / 大廳→房間→即時對戰→聊天→錦標賽→籌碼系統.
 high-performance poker game engine
