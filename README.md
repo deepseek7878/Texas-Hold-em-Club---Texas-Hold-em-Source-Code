@@ -1,5 +1,5 @@
 A high-performance poker engine designed for real-time gameplay and simulation.
-**Complete online Texas Hold'em poker club / 完整在线德州扑克俱乐部 / 完整線上德州撲克俱樂部**  
+**Complete online Texas Hold'em poker club / 德州源码/德州扑克源码/完整在线德州扑克俱乐部 / 完整線上德州撲克俱樂部**  
 
 [![GitHub stars](https://img.shields.io/github/stars/deepseek7878/texas-holdem-club?style=for-the-badge)](https://github.com/deepseek7878/texas-holdem-club)
 [![GitHub forks](https://img.shields.io/github/forks/deepseek7878/texas-holdem-club?style=for-the-badge)](https://github.com/deepseek7878/texas-holdem-club)
