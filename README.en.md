@@ -66,26 +66,9 @@ tests/                  # Automated tests and hand-evaluation cases
 
 ## GitHub Pages
 
-After uploading `docs/`, enable Pages:
 
-```text
-Settings → Pages → Deploy from a branch
-Branch: main
-Folder: /docs
-Save
-```
-
-Site URL:
-
-```text
-https://deepseek7878.github.io/texas-holdem-club/
-```
-
-Sitemap:
-
-```text
 https://deepseek7878.github.io/texas-holdem-club/sitemap.xml
-```
+
 ## 📱 💰 联系 | Contact
 
 
