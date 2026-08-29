@@ -1,5 +1,6 @@
 A high-performance poker engine designed for real-time gameplay and simulation.
-**Complete online Texas Hold'em poker club / 德州源码/德州扑克源码/完整在线德州扑克俱乐部 / 完整線上德州撲克俱樂部**  
+# Texas Hold'em Club — 德州扑克俱乐部源码
+[English](README.en.md) | [繁體中文](README.zh-TW.md) | [GitHub Pages](https://deepseek7878.github.io/texas-holdem-club/)
 
 [![GitHub stars](https://img.shields.io/github/stars/deepseek7878/texas-holdem-club?style=for-the-badge)](https://github.com/deepseek7878/texas-holdem-club)
 [![GitHub forks](https://img.shields.io/github/forks/deepseek7878/texas-holdem-club?style=for-the-badge)](https://github.com/deepseek7878/texas-holdem-club)
@@ -9,7 +10,12 @@ A high-performance poker engine designed for real-time gameplay and simulation.
 
 
 
-**真实运营数年 · 支持线下验证 ·ALLIN德州扑克源码**
+Texas Hold'em Club 是一个面向德州扑克私局、俱乐部、联盟、大厅局、实时多人对战和锦标赛运营的完整源码项目。项目适合用于德州扑克 App、H5、Unity 客户端、C++ 游戏服务端、运营后台、房间系统、筹码系统、排行榜和商业化德州游戏平台开发。
+
+当前仓库已经包含德州扑克源码、完整在线俱乐部、私房/公房、大厅、实时对战、聊天、锦标赛、筹码系统、后台 DTO、C++ 游戏逻辑等内容。本优化版本补充英文版 README、繁体中文 README、GitHub Pages 文档、robots.txt、sitemap.xml、贡献说明、安全说明和搜索优化文件。
+
+> 合规说明：请在合法地区、合法业务范围内使用。公开运营时应遵守当地法律法规、年龄限制、支付合规、平台规则和用户隐私要求。
+
 
 
 **简体中文 · 繁體中文 · English· 韩文· 马来文· 日文· 泰文· 印尼语·越南文**
@@ -43,12 +49,10 @@ npm run dev
 
 **浏览器访问 `http://localhost:3000` → 立即开房开战！**
 
-## 📱 💰 获取源码 | Contact
+## 📱 💰 联系 | Contact
 
 
 📱 Telegram：@fox_lovemyself
-
-
 
 📧 Email：lihongbo9414@gmail.com
 
@@ -206,9 +210,24 @@ docker-compose up -d
 ## 📄 License
 MIT License - 商业级开源
 Copyright (c) 2026 deepseek7878
-完全商用授权 | 二次开发 | 云部署
+完全授权 | 二次开发 | 云部署
 感谢 Star 支持！
 有任何问题或定制需求，请随时联系我们。
+## 核心关键词
+
+- 德州扑克源码
+- 德州源码
+- 德州扑克俱乐部源码
+- 德州私局源码
+- 德州联盟源码
+- 德州扑克赛事系统
+- Texas Hold'em Club Source Code
+- Texas Hold'em Poker Source Code
+- Poker Club Software
+- Poker Game Server
+- Unity Poker Client
+- C++ Poker Engine
+
 ---
 
 **⭐ Star支持专业扑克俱乐部开源！ / Star professional poker club! / Star支持專業撲克俱樂部開源！**
