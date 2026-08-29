@@ -86,7 +86,39 @@ Sitemap:
 ```text
 https://deepseek7878.github.io/texas-holdem-club/sitemap.xml
 ```
+## 📱 💰 联系 | Contact
 
+
+📱 Telegram：@fox_lovemyself
+
+📧 Email：lihongbo9414@gmail.com
+
+## 📱 完整功能演示 / Full Feature Demo / 完整功能示範
+
+
+![01登录](https://github.com/user-attachments/assets/310972fa-63ed-443d-a49c-6d7d2c163a23)
+
+**登录界面**
+
+![05创建牌局](https://github.com/user-attachments/assets/ad7a1fcc-db06-4261-82db-dfaffbd6122f)
+
+**创建牌局**
+
+![04俱乐部](https://github.com/user-attachments/assets/f77a2131-836e-4b94-88ca-9a0dadd1a4ff)
+
+**俱乐部**
+
+![03大厅](https://github.com/user-attachments/assets/a6b30639-fd55-42d2-94dd-444736b64379)
+
+**游戏大厅1**
+
+![02大厅](https://github.com/user-attachments/assets/0d93a098-8976-4f8b-a1bd-52764588d2b1)
+
+**游戏大厅2**
+
+![06牌局](https://github.com/user-attachments/assets/c0612af5-4859-4d26-9cd9-2df9583d4164)
+
+**牌局中**
 ## Responsible Use
 
 This repository is for card-game development, rule-engine research, poker club systems, tournament platforms and lawful business reference. Do not use it for illegal gambling, money laundering, fraud, platform-rule bypass or privacy violations.
