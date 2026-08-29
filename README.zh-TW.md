@@ -65,28 +65,10 @@ tests/                  # 自动化测试和牌型验证
 - 海外 Texas Hold'em Poker Club 平台
 - 完整德州撲克商业解决方案
 
-## GitHub Pages 發布
+## GitHub Pages 
 
-上傳 `docs/` 后，推荐设置：
-
-```text
-Settings → Pages → Deploy from a branch
-Branch: main
-Folder: /docs
-Save
-```
-
-發布后访问：
-
-```text
-https://deepseek7878.github.io/texas-holdem-club/
-```
-
-Sitemap：
-
-```text
 https://deepseek7878.github.io/texas-holdem-club/sitemap.xml
-```
+
 ## 📱 💰 联系 | Contact
 
 
